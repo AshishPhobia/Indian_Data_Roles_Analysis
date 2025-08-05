@@ -97,7 +97,7 @@ plt.show()
 
 #### Results
 
-![Visualisation of Top Skills for Data Nerds](/images/Likelihood_of_Skills_Requested_in_Indian_Job_Postings.png)
+![Visualisation of Top Skills for Data Nerds](images/Likelihood_of_Skills_Requested_in_Indian_Job_Postings.png)
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
