@@ -80,7 +80,7 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting. 
 
-View my notebook with detailed steps here: [2_skill_demand](2_skill_demand.ipynb).
+View my notebook with detailed steps here: [2_skill_demand](2_project/2_skill_demand.ipynb)
 
 #### Visualize Data
 
@@ -113,7 +113,7 @@ plt.show()
 
 To find how skills are trending in 2023 for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
 
-View my notebook with detailed steps here: [3_skills_trend](3_skills_trend.ipynb).
+View my notebook with detailed steps here: [3_skills_trend](2_project/3_skills_trend.ipynb)
 
 #### Visualize Data
 
@@ -149,7 +149,7 @@ plt.show()
 
 To identify the highest-paying roles and skills, I only got jobs in India and looked at their median salary. But first I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most. 
 
-View my notebook with detailed steps here: [3_skills_trend](3_skills_trend.ipynb).
+View my notebook with detailed steps here: [4_salary_analysis](2_project/4_salary_analysis.ipynb)
 
 #### Visualize Data 
 
@@ -182,7 +182,7 @@ plt.show()
 
 Next, I narrowed my analysis and focused only on data analyst roles. I looked at the highest-paid skills and the most in-demand skills. I used two bar charts to showcase these.
 
-View my notebook with detailed steps here: [4_salary_analysis](4_salary_analysis.ipynb).
+View my notebook with detailed steps here: [4_salary_analysis](2_project/4_salary_analysis.ipynb)
 
 #### Visualize Data
 
@@ -219,7 +219,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 
 To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn. 
 
-View my notebook with detailed steps here: [5_optimal_skills](5_optimal_skills.ipynb).
+View my notebook with detailed steps here: [5_optimal_skills](2_project/5_optimal_skills.ipynb)
 
 #### Visualize Data
 
